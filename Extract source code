@@ -1,0 +1,5 @@
+```bash
+tar -xzf rate-cockpit-source.tar.gz
+cd rate-cockpit
+pnpm install
+```
