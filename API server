@@ -1,0 +1,6 @@
+```
+DATABASE_URL=postgresql://user:password@host:5432/dbname
+SESSION_SECRET=your-random-secret-min-32-chars
+NODE_ENV=production
+PORT=8080
+```
