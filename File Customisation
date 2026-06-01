@@ -1,0 +1,5 @@
+
+| `artifacts/rate-calculator/src/pages/checkout.tsx` | UPI ID, PayPal QR, price |
+| `artifacts/rate-calculator/src/pages/about.tsx` | Founder name, story |
+| `artifacts/rate-calculator/src/pages/terms.tsx` | Your company name, jurisdiction |
+| `artifacts/api-server/src/routes/stripe.ts` | Stripe product/price IDs |
