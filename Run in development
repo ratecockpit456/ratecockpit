@@ -1,0 +1,7 @@
+
+```bash
+# Terminal 1 — API server
+pnpm --filter @workspace/api-server run dev
+
+# Terminal 2 — Frontend
+pnpm --filter @workspace/rate-calculator run dev
